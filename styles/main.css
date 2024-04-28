@@ -173,7 +173,7 @@ footer p {
 
 table{
 	border:1px solid #800000;
-	border-collapse: none;}
+	border-collapse: collapse;}
 th, td {
 	border: 1px solid #800000;
 	padding: .2em .7em;
